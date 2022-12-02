@@ -1,0 +1,12 @@
+#ignore data files
+*.csv
+*.xlsx
+*.png
+*/data/
+*/*/data/
+*/*/data/*
+*/data/*
+*/dtree_graphs/
+*/*/dtree_graphs/
+*/*/dtree_graphs/*
+*/dtree_graphs/*

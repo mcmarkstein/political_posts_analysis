@@ -1,4 +1,4 @@
-Political social media posts
+**Political social media posts**
 
 Este dataset fue obtenido en la página Kaggle
 Consiste en 5000 publicaciones/posteos de las redes sociales (facebook y twitter) de políticos estadounidenses (senadores y representantes del congreso). Los mensajes fueron clasificados según: audiencia (nacional o local), sesgo (neutral/bipartisan, o biased/partisan) y por el objetivo de los mismos (ataque, apoyo, personal, etc).
